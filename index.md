@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 Modelling, Model Reduction, and Optimization of Flows
 ---
 
