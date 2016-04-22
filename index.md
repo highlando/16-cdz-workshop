@@ -12,6 +12,7 @@ Modelling, Model Reduction, and Optimization of Flows
 **Support**: Chinesisch-Deutsches Zentrum für Wissenschaftsförderung [CDZ](http://www.sinogermanscience.org.cn/de/index.html)
 
 ### List of Participants
+
 #### Confirmed
  * [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020)
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708)
