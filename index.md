@@ -5,7 +5,7 @@ layout: index
 Modelling, Model Reduction, and Optimization of Flows
 ---
 
-**Location**: September 25-29 -- Shanghai, China. 
+**Location**: September 25-29, 2016 -- Shanghai, China. 
 
 **Organizers**: [Wu Zhang](http://www.hpcc.shu.edu.cn/Portals/283/people/zhangwu.html) (U Shanghai), [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020) (MPI Magdeburg), [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708) (MPI Magdeburg)
 
