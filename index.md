@@ -27,7 +27,10 @@ Modelling, Model Reduction, and Optimization of Flows
  * Tobias Breiten
  * Serkan Gugercin
  * Michael Hinze
+ * Volker John
  * Volker Mehrmann
+ * Siegfried Mueller
+ * Mario Ohlberger
  * Martin Stoll
  * Fredi Troeltzsch
  * Stefan Turek
