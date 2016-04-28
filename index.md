@@ -17,15 +17,15 @@ Modelling, Model Reduction, and Optimization of Flows
 
 #### Confirmed
  * [Robert Altmann](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v-menue/mitarbeiter/robert_altmann/home/)
+ * [Athanasios Antoulas](https://www.jacobs-university.de/directory/aantoulas)
+ * [Christopher Beattie](https://www.math.vt.edu/people/beattie/research/Research_Interests.html)
  * [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020)
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708)
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en)
  * [Matthias Voigt](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/mitarbeiter/matthias_voigt/home/)
 
 #### Invited
- * Thanos Antoulas
  * Eberhard B&auml;nsch
- * Chris Beattie
  * Tobias Breiten
  * Serkan Gugercin
  * Michael Hinze
