@@ -23,6 +23,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708)
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en)
  * [Matthias Voigt](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/mitarbeiter/matthias_voigt/home/)
+ * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076)
 
 #### Invited
  * Eberhard B&auml;nsch
@@ -37,5 +38,5 @@ Modelling, Model Reduction, and Optimization of Flows
  * Fredi Troeltzsch
  * Stefan Turek
  * Stefan Volkwein
- * Qiu Yue
  * Ralf Zimmermann
+ * [Sandra May](http://www.sam.math.ethz.ch/~mays/index.html)
