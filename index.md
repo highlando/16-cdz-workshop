@@ -26,17 +26,21 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076)
 
 #### Invited
- * Eberhard B&auml;nsch
  * Tobias Breiten
- * Serkan Gugercin
- * Michael Hinze
- * Volker John
- * Volker Mehrmann
- * Siegfried Mueller
- * Mario Ohlberger
- * Martin Stoll
- * Fredi Troeltzsch
+ * Nikolas Gauger
+ * Christian Kahle
+ * Alexander Linke
+ * Sandra May
+ * Hermann Mena
+ * Siegfried M&uuml;ller
+ * Bernd Noack
+ * Alfio Quarteroni
+ * Rolf Rannacher
+ * Jean-Pierre Raymond
+ * Ulrich R&ouml;mer
+ * Gianluigi Rozza
+ * J&ouml;rn Sesterhenn
+ * Fredi Tr&ouml;ltzsch
  * Stefan Turek
- * Stefan Volkwein
+ * Daniel Wachsmuth
  * Ralf Zimmermann
- * [Sandra May](http://www.sam.math.ethz.ch/~mays/index.html)
