@@ -21,8 +21,11 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Christopher Beattie](https://www.math.vt.edu/people/beattie/research/Research_Interests.html)
  * [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020)
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708)
+ * [Hermann Mena](http://homepage.uibk.ac.at/~c7021020/)
+ * [Siegfried M&uuml;ller](https://www.igpm.rwth-aachen.de/personen/mueller)
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en)
  * [Matthias Voigt](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/mitarbeiter/matthias_voigt/home/)
+ * [Gianluigi Rozza](http://www.math.sissa.it/users/gianluigi-rozza)
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076)
 
 #### Invited
@@ -31,14 +34,11 @@ Modelling, Model Reduction, and Optimization of Flows
  * Christian Kahle
  * Alexander Linke
  * Sandra May
- * Hermann Mena
- * Siegfried M&uuml;ller
  * Bernd Noack
  * Alfio Quarteroni
  * Rolf Rannacher
  * Jean-Pierre Raymond
  * Ulrich R&ouml;mer
- * Gianluigi Rozza
  * J&ouml;rn Sesterhenn
  * Fredi Tr&ouml;ltzsch
  * Stefan Turek
