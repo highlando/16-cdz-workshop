@@ -22,6 +22,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020)
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708)
  * [Nikolas Gauger](http://www.scicomp.uni-kl.de/team/gauger/)
+ * [Dmitri Kuzmin](http://www.mathematik.uni-dortmund.de/de/personen/person/Dmitri+Kuzmin.html)
  * [Hermann Mena](http://homepage.uibk.ac.at/~c7021020/)
  * [Siegfried M&uuml;ller](https://www.igpm.rwth-aachen.de/personen/mueller)
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en)
