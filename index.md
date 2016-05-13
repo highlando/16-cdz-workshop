@@ -34,8 +34,9 @@ Modelling, Model Reduction, and Optimization of Flows
  * Alexander Linke
  * Alfio Quarteroni
  * Rolf Rannacher
- * Jean-Pierre Raymond
+ * Thomas Rung
  * J&ouml;rn Sesterhenn
+ * Domenic Thevenin
  * Stefan Turek
  * Daniel Wachsmuth
  * Ralf Zimmermann
