@@ -23,6 +23,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708) (MPI Magdeburg)
  * [Nicolas Gauger](http://www.scicomp.uni-kl.de/team/gauger/) (U Kaiserslautern)
  * [Dmitri Kuzmin](http://www.mathematik.uni-dortmund.de/de/personen/person/Dmitri+Kuzmin.html) (U Dortmund)
+ * [Alexander Linke](http://www.wias-berlin.de/~linke/)
  * [Hermann Mena](http://homepage.uibk.ac.at/~c7021020/) (U Innsbruck, Austria)
  * [Siegfried M&uuml;ller](https://www.igpm.rwth-aachen.de/personen/mueller) (RWTH Aachen)
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en) (U Hamburg)
@@ -31,7 +32,6 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076) (MPI Magdeburg)
 
 #### Invited
- * Alexander Linke
  * Alfio Quarteroni
  * Rolf Rannacher
  * Thomas Rung
