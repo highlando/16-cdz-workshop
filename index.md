@@ -17,7 +17,7 @@ Modelling, Model Reduction, and Optimization of Flows
 
 #### Confirmed
  * [Robert Altmann](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v-menue/mitarbeiter/robert_altmann/home/) (TU Berlin)
- * [Athanasios Antoulas](https://www.jacobs-university.de/directory/aantoulas) (U Bremen)
+ * [Athanasios Antoulas](https://www.jacobs-university.de/directory/aantoulas) (Jacobs U Bremen)
  * [Christopher Beattie](https://www.math.vt.edu/people/beattie/research/Research_Interests.html) (TU Berlin)
  * [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020) (MPI Magdeburg)
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708) (MPI Magdeburg)
@@ -27,6 +27,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Hermann Mena](http://homepage.uibk.ac.at/~c7021020/) (U Innsbruck, Austria)
  * [Siegfried M&uuml;ller](https://www.igpm.rwth-aachen.de/personen/mueller) (RWTH Aachen)
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en) (U Hamburg)
+ * [Julius Reiss](http://www.cfd.tu-berlin.de/~reiss/) (TU Berlin)
  * [Matthias Voigt](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/mitarbeiter/matthias_voigt/home/) (TU Berlin)
  * [Gianluigi Rozza](http://www.math.sissa.it/users/gianluigi-rozza) (SISSA, Italy)
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076) (MPI Magdeburg)
