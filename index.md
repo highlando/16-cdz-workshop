@@ -13,7 +13,22 @@ Modelling, Model Reduction, and Optimization of Flows
 
 **Support**: Chinesisch-Deutsches Zentrum für Wissenschaftsförderung [CDZ](http://www.sinogermanscience.org.cn/de/index.html)
 
+**Site**: LeHu Hotel at the campus of the Shanghai University. See the [website](http://www.lhljt.shu.edu.cn/Default.aspx?tabid=31587#how) for directions.
+
+### Program
+
+| Day | Time | Event |
+| ------- | ------ | ------- |
+| Sunday, Sep. 25th | 18:00 | Registration and Reception |
+| Monday, Sep. 26th | 9:00 - 18:00 | Scientific Program |
+| Tuesday, Sep. 27th | 9:00 - 18:00 | Scientific Program |
+| Wednesday, Sep. 28th | 9:00 - 18:00 | Scientific Program |
+| Thursday, Sep. 29th | 9:00 - 18:00 | Scientific Program |
+| Friday, Sep. 30th | 8:00 - 18:00 | Excursion |
+
 ### List of Participants
+
+<h4> From the German Side </h4>
 
  * [Robert Altmann](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v-menue/mitarbeiter/robert_altmann/home/) (TU Berlin)
  * [Athanasios Antoulas](https://www.jacobs-university.de/directory/aantoulas) (Jacobs U Bremen)
@@ -23,10 +38,11 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Nicolas Gauger](http://www.scicomp.uni-kl.de/team/gauger/) (U Kaiserslautern)
  * [Dmitri Kuzmin](http://www.mathematik.uni-dortmund.de/de/personen/person/Dmitri+Kuzmin.html) (U Dortmund)
  * [Alexander Linke](http://www.wias-berlin.de/~linke/) (WIAS Berlin)
- * [Hermann Mena](http://homepage.uibk.ac.at/~c7021020/) (U Innsbruck, Austria)
  * [Siegfried M&uuml;ller](https://www.igpm.rwth-aachen.de/personen/mueller) (RWTH Aachen)
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en) (U Hamburg)
  * [Julius Reiss](http://www.cfd.tu-berlin.de/~reiss/) (TU Berlin)
  * [Matthias Voigt](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/mitarbeiter/matthias_voigt/home/) (TU Berlin)
  * [Gianluigi Rozza](http://www.math.sissa.it/users/gianluigi-rozza) (SISSA, Italy)
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076) (MPI Magdeburg)
+
+<h4> From the Chinese Side </h4>
