@@ -28,6 +28,34 @@ Modelling, Model Reduction, and Optimization of Flows
 
 ### List of Participants
 
+<h4> From the Chinese Side </h4>
+
+ * Shiwei Ma (Department of Automation, Shanghai University)
+ * Yaosong Chen (Department of Mechanics, Peking University)
+ * Yaolin Jiang (School of Mathematics and Statistics, Xi'an Jiaotong University)
+ * Yangfeng Su (School of Mathematics and Science，Fudan University)
+ * Guanghong Yang (School of Information Science and Engineering, Northeastern University)
+ * Yanren Hou (School of Mathematics and Statistics, Xi'an Jiaotong University)
+ * Chao Gao (High Performance Computing Research and Development Center of Northwestern Polytechnical University)
+ * Xiaolong Wang (College of Science，Northwestern Polytechnical University)
+ * Wu Zhang (School of Computer Engineering and Science，Shanghai University)
+ * Yanqing Bai (Department of Mechanics，Shanghai University)
+ * Hongxun Chen (Department of Mechanics，Shanghai University)
+ * Yan Zhang (Microsystems Center of Shanghai University)
+ * Yun Bao (Institute of Mechanics，Sun Yat-sen University)
+ * Shubin Wang (School of Mathematics and Statistics，Zhengzhou University)
+ * Yongjing Zhang (Department of Mathematics，Henan Polytechnic University)
+ * Baolin Tian (Beijing Institute of Applied Physics and Computational Mathematics)
+ * Jiequan Li (School of Mathematical Sciences, Beijing Normal University)
+ * Hongjiong Tian (School of Mathematics and Physics Department of Mathematics，Shanghai Normal University)
+ * Juan Du (Institute of Atmospheric Physics, Chinese Academy of Sciences)
+ * Jianxian Qiu (Mathematical Sciences, Xiamen University,)
+ * Quan Zhou (Mechanics，Shanghai University & Shanghai Institute of Applied Mathematics and Mechanics)
+ * Zhan Wang (Institute of Mechanics, Chinese Academy of Sciences)
+ * Yiwei Wang (Institute of Mechanics, Chinese Academy of Sciences )
+ * Kangji Li (School of Electrical & Information Engineering, Jiangsu University)
+ * Chunwu Wang (College of Science, Nanjing University of Aeronautics and Astronautics)
+
 <h4> From the German Side </h4>
 
  * [Robert Altmann](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v-menue/mitarbeiter/robert_altmann/home/) (TU Berlin)
@@ -45,4 +73,4 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Gianluigi Rozza](http://www.math.sissa.it/users/gianluigi-rozza) (SISSA, Italy)
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076) (MPI Magdeburg)
 
-<h4> From the Chinese Side </h4>
+ * Qifeng Liao (School of Information Science and Technology, Shanghai Tech University)
