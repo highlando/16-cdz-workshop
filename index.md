@@ -55,6 +55,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * Yiwei Wang (Institute of Mechanics, Chinese Academy of Sciences )
  * Kangji Li (School of Electrical & Information Engineering, Jiangsu University)
  * Chunwu Wang (College of Science, Nanjing University of Aeronautics and Astronautics)
+ * Qifeng Liao (School of Information Science and Technology, Shanghai Tech University)
 
 <h4> From the German Side </h4>
 
@@ -73,4 +74,3 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Gianluigi Rozza](http://www.math.sissa.it/users/gianluigi-rozza) (SISSA, Italy)
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076) (MPI Magdeburg)
 
- * Qifeng Liao (School of Information Science and Technology, Shanghai Tech University)
