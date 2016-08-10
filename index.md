@@ -13,7 +13,7 @@ Modelling, Model Reduction, and Optimization of Flows
 
 **Support**: Chinesisch-Deutsches Zentrum für Wissenschaftsförderung [CDZ](http://www.sinogermanscience.org.cn/de/index.html)
 
-**Site**: LeHu Hotel at the campus of the Shanghai University. See the [website](http://www.lhljt.shu.edu.cn/Default.aspx?tabid=31587#how) for directions.
+**Site**: The New LeHu Hotel at the new campus of the Shanghai University. See the [website](http://www.lhljt.shu.edu.cn/Default.aspx?tabid=31587#how) for directions.
 
 ### Program
 
