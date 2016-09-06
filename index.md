@@ -9,7 +9,7 @@ Modelling, Model Reduction, and Optimization of Flows
 
 **Location**: Shanghai, China
 
-**Organizers**: Shiwei Ma (U Shanghai), [Wu Zhang](http://www.hpcc.shu.edu.cn/Portals/283/people/zhangwu.html) (U Shanghai), Xin Du (U Shanghai), [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020) (MPI Magdeburg), [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708) (MPI Magdeburg)
+**Organizers**: [Shiwei Ma](http://en.shu.edu.cn/Default.aspx?tabid=23625) (U Shanghai), [Wu Zhang](http://www.hpcc.shu.edu.cn/Portals/283/people/zhangwu.html) (U Shanghai), [Xin Du](http://en.shu.edu.cn/Default.aspx?tabid=23625) (U Shanghai), [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020) (MPI Magdeburg), [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708) (MPI Magdeburg)
 
 **Support**: Chinesisch-Deutsches Zentrum für Wissenschaftsförderung [CDZ](http://www.sinogermanscience.org.cn/de/index.html)
 
@@ -71,7 +71,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en) (U Hamburg)
  * [Julius Reiss](http://www.cfd.tu-berlin.de/~reiss/) (TU Berlin)
  * [Matthias Voigt](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/mitarbeiter/matthias_voigt/home/) (TU Berlin)
- * [Mladjan Radic](https://www.uni-ulm.de/en/mawi/mawi-numerik/forschung/), (U Ulm)
+ * [Mladjan Radic](https://www.uni-ulm.de/en/mawi/mawi-numerik/forschung/) (U Ulm)
  * [Gianluigi Rozza](http://www.math.sissa.it/users/gianluigi-rozza) (SISSA, Italy)
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076) (MPI Magdeburg)
 
