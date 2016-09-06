@@ -13,7 +13,7 @@ Modelling, Model Reduction, and Optimization of Flows
 
 **Support**: Chinesisch-Deutsches Zentrum für Wissenschaftsförderung [CDZ](http://www.sinogermanscience.org.cn/de/index.html)
 
-**Site**: The New LeHu Hotel at the new campus of the Shanghai University. See the [website](http://www.lhljt.shu.edu.cn/Default.aspx?tabid=31587#how) for directions.
+**Site**: The New LeHu Hotel at the new campus of the Shanghai University. See the [website](http://www.lhljt.shu.edu.cn/Default.aspx?tabid=31586) for directions.
 
 ### Program
 
@@ -64,7 +64,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Christopher Beattie](https://www.math.vt.edu/people/beattie/research/Research_Interests.html) (TU Berlin)
  * [Peter Benner](http://www.mpi-magdeburg.mpg.de/mitarbeiter/26532/15020) (MPI Magdeburg)
  * [Jan Heiland](http://www.mpi-magdeburg.mpg.de/mitarbeiter/29457/834708) (MPI Magdeburg)
- * [Nicolas Gauger](http://www.scicomp.uni-kl.de/team/gauger/) (U Kaiserslautern)
+ * [Nicolas Gauger](http://www.scicomp.uni-kl.de/team/gauger/) (TU Kaiserslautern)
  * [Dmitri Kuzmin](http://www.mathematik.uni-dortmund.de/de/personen/person/Dmitri+Kuzmin.html) (U Dortmund)
  * [Alexander Linke](http://www.wias-berlin.de/~linke/) (WIAS Berlin)
  * [Siegfried M&uuml;ller](https://www.igpm.rwth-aachen.de/personen/mueller) (RWTH Aachen)
