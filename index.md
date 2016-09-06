@@ -71,6 +71,7 @@ Modelling, Model Reduction, and Optimization of Flows
  * [Timo Reis](http://www.math.uni-hamburg.de/home/reis/index.html.en) (U Hamburg)
  * [Julius Reiss](http://www.cfd.tu-berlin.de/~reiss/) (TU Berlin)
  * [Matthias Voigt](http://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v_menue/mitarbeiter/matthias_voigt/home/) (TU Berlin)
+ * [Mladjan Radic](https://www.uni-ulm.de/en/mawi/mawi-numerik/forschung/), (U Ulm)
  * [Gianluigi Rozza](http://www.math.sissa.it/users/gianluigi-rozza) (SISSA, Italy)
  * [Qiu Yue](http://www.mpi-magdeburg.mpg.de/employees/47281/823076) (MPI Magdeburg)
 
