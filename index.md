@@ -26,6 +26,8 @@ Modelling, Model Reduction, and Optimization of Flows
 | Thursday, Sep. 29th | 9:00 - 18:00 | Scientific Program |
 | Friday, Sep. 30th | 8:00 - 18:00 | Excursion |
 
+:memo: [Program download](mmof2016.pdf)
+
 ### List of Participants
 
 <h4> From the Chinese Side </h4>
