@@ -27,6 +27,7 @@ Modelling, Model Reduction, and Optimization of Flows
 | Friday, Sep. 30th | 8:00 - 18:00 | Excursion |
 
 :memo: [Program download](mmof2016.pdf)
+:memo: [Slides download](https://owncloud.mpi-magdeburg.mpg.de/owncloud/public.php?service=files&t=4a98d83eba2cc21996df77dc3b5a2c48)
 
 ### List of Participants
 
